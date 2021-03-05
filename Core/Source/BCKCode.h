@@ -20,7 +20,7 @@ extern NSString * const BCKCodeDrawingReduceBleedOption;
 extern NSString * const BCKCodeDrawingSizeWidthOption;
 extern NSString * const BCKCodeDrawingSizeHeightOption;
 extern NSString * const BCKCodeDrawingSuppressQuietZones;
-
+#import <CoreGraphics/CoreGraphics.h>
 /**
  Caption Zones
  */
